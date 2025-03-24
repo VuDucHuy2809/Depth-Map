@@ -1,5 +1,4 @@
 # ComfyUI nodes to use DepthAnythingV2
-https://depth-anything-v2.github.io
 
 Models autodownload to `ComfyUI\models\depthanything` from https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main
 
